@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/demo06_springmvc_ajax_json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springmvc-06_ajax_json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springmvc_ajax_json" vcs="Git" />
+  </component>
+</project>
